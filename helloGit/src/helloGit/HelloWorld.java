@@ -1,3 +1,7 @@
 package helloGit;
 
-public class HelloWorld {kjj}
+public class HelloWorld {
+	public HelloWorld() {
+		System.out.println("hello world");
+	}
+}
